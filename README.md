@@ -1,5 +1,6 @@
 # 🚀 SpaceTalk - Seamless Video Conferencing  
-LIVE AT : https://talkspacevideocall.onrender.com/
+**LIVE AT** : https://talkspacevideocall.onrender.com/
+
 **SpaceTalk** is a versatile video conferencing platform designed for seamless virtual communication. Built with modern web technologies, it ensures secure and real-time interactions.  
 
 ## 🌟 Features  
@@ -36,14 +37,12 @@ LIVE AT : https://talkspacevideocall.onrender.com/
 │── .env (Environment Variables)
 ```  
 
-
-
 ## 💡 Contributing  
 Contributions are welcome! Feel free to fork the repository and submit pull requests.  
 
 ## 📄 License  
 This project is licensed under the **MIT License**.  
 
----
+## Developed by: [Sudipta dutta](https://github.com/sudiptadutta99)
 
 Feel free to modify it based on your specific needs! 🚀😊
