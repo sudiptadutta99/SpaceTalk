@@ -1,0 +1,49 @@
+# 🚀 SpaceTalk - Seamless Video Conferencing  
+LIVE AT : https://talkspacevideocall.onrender.com/
+**SpaceTalk** is a versatile video conferencing platform designed for seamless virtual communication. Built with modern web technologies, it ensures secure and real-time interactions.  
+
+## 🌟 Features  
+- 🔹 **Real-time Video Conferencing** powered by WebRTC  
+- 🔹 **Secure User Authentication** with bcrypt and JWT  
+- 🔹 **Fast & Scalable Backend** using Node.js and Express.js  
+- 🔹 **Persistent Data Storage** with MongoDB  
+- 🔹 **Instant Messaging & Notifications** via Socket.io  
+- 🔹 **User-Friendly UI** for a smooth experience  
+
+## 🛠️ Tech Stack  
+- **Frontend:** React.js (or any frontend framework you're using)  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB  
+- **Real-time Communication:** Socket.io  
+- **Authentication:** JWT & bcrypt  
+
+## 📂 Project Structure  
+```
+/spacetalk
+│── /backend
+│   ├── server.js
+│   ├── config/
+│   ├── models/
+│   ├── routes/
+│   ├── controllers/
+│   ├── middleware/
+│── /frontend
+│   ├── src/
+│   ├── components/
+│   ├── pages/
+│── package.json
+│── README.md
+│── .env (Environment Variables)
+```  
+
+
+
+## 💡 Contributing  
+Contributions are welcome! Feel free to fork the repository and submit pull requests.  
+
+## 📄 License  
+This project is licensed under the **MIT License**.  
+
+---
+
+Feel free to modify it based on your specific needs! 🚀😊
