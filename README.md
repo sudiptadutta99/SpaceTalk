@@ -22,20 +22,24 @@
 ```
 /spacetalk
 │── /backend
-│   ├── server.js
-│   ├── config/
-│   ├── models/
-│   ├── routes/
-│   ├── controllers/
-│   ├── middleware/
+│   │── /node_modules
+│   │── /src
+│   │   │── /controllers
+│   │   │── /models
+│   │   │── /routes
+│   │── app.js
 │── /frontend
-│   ├── src/
-│   ├── components/
-│   ├── pages/
-│── package.json
+│   │── /node_modules
+│   │── /public
+│   │── /src
+│   │   │── /contexts
+│   │   │── /pages
+│   │   │── /styles
+│   │   |── /utils
+|   │── index.js
+|   │── App.js
+│── .gitignore
 │── README.md
-│── .env (Environment Variables)
-```  
 
 ## 💡 Contributing  
 Contributions are welcome! Feel free to fork the repository and submit pull requests.  
